@@ -4,11 +4,11 @@ Classifier trained with the [fast.ai](https://github.com/fastai/fastai) library 
 
 Classifier : ResNet34 trained on 83 images (40 dogs and 43 cats).
 
-Link to the app : https://dogsvscats.onrender.com
+Link to the website : https://dogsvscats.onrender.com
 
                                           
                                           
-                                          ![Website](/website.png)
+   ![Website](/website.png)
 
 
 
